@@ -14,7 +14,7 @@ fun main() {
 //    println(9.8)
 //    println("My age is "+19) // valid statement
 //    println("My age is ${19 + 1}") // string interpolation (template string)
-    println("\n\nMy name is Aadi yaduvanshiii")
+    println("\n\nMy name is \t\t Aadi \\yaduvanshiii")
 
     var a = 10
     var b = 20
