@@ -3,21 +3,12 @@
 package org.example
 
 fun main() {
-//    print("ldksajf;alksdf")
-//    println("Hello, \n\n\n\nworld!!!")
 
+    print("hello kotlin ")
+    val name = "Aditya yadav"
+    var age = 20;
 
+    println("Name : $name")
+    println("Age : $age")
 
-//    println("Hello world!!")
-
-//    println(19)
-//    println(9.8)
-//    println("My age is "+19) // valid statement
-//    println("My age is ${19 + 1}") // string interpolation (template string)
-    println("\n\nMy name is \t\t Aadi \\yaduvanshiii")
-    print("\'I m from Azamgarh\'")
-
-    var a = 10
-    var b = 20
-    println("Sum ${a+b}")
 }
